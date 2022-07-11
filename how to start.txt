@@ -1,0 +1,5 @@
+json-server --watch db.json -d 2000 -p 3001
+
+
+//specify host ip
+json-server --watch --host (host ip) db.json -d 2000 -p 3001
